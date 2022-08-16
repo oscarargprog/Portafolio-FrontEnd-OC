@@ -1,0 +1,21 @@
+
+
+
+
+.row{
+    padding: 30px;
+
+}
+
+
+div{
+    background-color: #ccd5ae
+}
+
+h2, h3 {
+    display: inline;
+}
+
+hr{
+    box-shadow: 1px 1px 1px 1px #000000;
+}
